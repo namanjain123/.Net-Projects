@@ -2,8 +2,7 @@
   "profiles": {
     "AzureFunctionRestApi": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7182",
-      "launchBrowser": false
+      "commandLineArgs": "host start --port 7073 --pause-on-error"
     }
   }
 }

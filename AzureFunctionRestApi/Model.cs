@@ -9,7 +9,7 @@ namespace AzureFunctionRestApi
     }
     public class Task
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public int Salary { get; set; }
         public string Department { get; set; }
@@ -19,6 +19,7 @@ namespace AzureFunctionRestApi
     }
     public class TaskCreateModel
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public int Salary { get; set; }
         public string Department { get; set; }

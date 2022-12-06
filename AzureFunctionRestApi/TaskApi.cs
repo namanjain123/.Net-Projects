@@ -33,6 +33,7 @@ namespace AzureFunctionRestApi
                 Department=data.Department,
                 TaskName = data.TaskName,
                 TaskDescription=data.TaskDescription };
+            task.Id = Items.LastOrDefault().Id+1;
             Items.Add(task);
             return new OkObjectResult(task);
         }
@@ -52,7 +53,7 @@ namespace AzureFunctionRestApi
         [FunctionName("GetAllTasksById")]
         public static IActionResult GetAllTasksById(
             [HttpTrigger(AuthorizationLevel.Anonymous,"get",Route ="task/{id}")]
-        HttpRequest req, ILogger log,string id
+        HttpRequest req, ILogger log,int id
             )
         {
             var task = Items.FirstOrDefault(a => a.Id == id);
@@ -68,7 +69,7 @@ namespace AzureFunctionRestApi
         [FunctionName("UpdateTask")]
         public static async Task<IActionResult> UpdateTaskAsync(
             [HttpTrigger(AuthorizationLevel.Anonymous,"put",Route ="task/{id}")]
-        HttpRequest req, ILogger log, string id
+        HttpRequest req, ILogger log, int id
             )
         {
             var task = Items.FirstOrDefault(a => a.Id == id);
@@ -107,7 +108,7 @@ namespace AzureFunctionRestApi
             [HttpTrigger(AuthorizationLevel.Anonymous,
                 "delete", Route = "task/{id}")]
             HttpRequest req,
-            ILogger log, string id)
+            ILogger log, int id)
         {
             var task = Items.FirstOrDefault(t => t.Id == id);
             if (task == null)
