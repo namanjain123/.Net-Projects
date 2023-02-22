@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChatGPT_WEBAPI.props" />
+</Project>
