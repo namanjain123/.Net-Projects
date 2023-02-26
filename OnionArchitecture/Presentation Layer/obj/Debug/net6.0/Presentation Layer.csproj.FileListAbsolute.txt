@@ -1,0 +1,93 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\appsettings.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Presentation Layer.exe
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Presentation Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Presentation Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Presentation Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Presentation Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets\msbuild.Presentation Layer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation Layer.props
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation Layer.props
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation Layer.props
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\scopedcss\bundle\Presentation Layer.styles.css
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\refint\Presentation Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\ref\Presentation Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Service Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Presentation Layer\obj\Debug\net6.0\Presentation Layer.MvcApplicationPartsAssemblyInfo.cs

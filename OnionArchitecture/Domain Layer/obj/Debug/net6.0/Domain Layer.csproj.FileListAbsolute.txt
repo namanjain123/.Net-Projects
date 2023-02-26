@@ -1,0 +1,14 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\bin\Debug\net6.0\Domain Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\refint\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\ref\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\bin\Debug\net6.0\Domain Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Domain Layer\obj\Debug\net6.0\Domain Layer.genruntimeconfig.cache
