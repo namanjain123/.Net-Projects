@@ -1,0 +1,7 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\Api_For_Cosmo_DB\Api_For_Cosmo_DB\obj\Debug\net6.0\Api_For_Cosmo_DB.MvcApplicationPartsAssemblyInfo.cache
