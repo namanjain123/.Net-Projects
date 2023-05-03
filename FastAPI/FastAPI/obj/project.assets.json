@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FastEndpoints/5.8.1": {
+        "type": "package",
+        "dependencies": {
+          "FastEndpoints.Attributes": "5.8.1",
+          "FluentValidation": "11.5.1"
+        },
+        "compile": {
+          "lib/net6.0/FastEndpoints.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FastEndpoints.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "FastEndpoints.Attributes/5.8.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FastEndpoints.Attributes.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/FastEndpoints.Attributes.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FastEndpoints/5.8.1": {
+      "sha512": "ABi5VwABVOD6Qk7C3kp165VYFYd9rG43Le57LMow9CUMOqgpNv1oI8bp+h9uORh/Is5hJVJ9hgm5q48Sm/L5bQ==",
+      "type": "package",
+      "path": "fastendpoints/5.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fastendpoints.5.8.1.nupkg.sha512",
+        "fastendpoints.nuspec",
+        "icon.png",
+        "lib/FastEndpoints.ExternalAnnotations.xml",
+        "lib/net6.0/FastEndpoints.dll",
+        "lib/net6.0/FastEndpoints.xml",
+        "lib/net7.0/FastEndpoints.dll",
+        "lib/net7.0/FastEndpoints.xml"
+      ]
+    },
+    "FastEndpoints.Attributes/5.8.1": {
+      "sha512": "kGppaOk4ztMdU9r845ID5ew7wBvKx0abd+3ZXMwckGj7vzB+Ab4C0kIOQ1yx2/aEhYG1RIWVhW5rWcAIoS2VsQ==",
+      "type": "package",
+      "path": "fastendpoints.attributes/5.8.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fastendpoints.attributes.5.8.1.nupkg.sha512",
+        "fastendpoints.attributes.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/FastEndpoints.Attributes.dll",
+        "lib/netstandard2.0/FastEndpoints.Attributes.xml"
+      ]
+    },
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FastEndpoints >= 5.8.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\NamanJain\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\APIs_Samples_Made_By_me\\FastAPI\\FastAPI\\FastAPI.csproj",
+      "projectName": "FastAPI",
+      "projectPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\APIs_Samples_Made_By_me\\FastAPI\\FastAPI\\FastAPI.csproj",
+      "packagesPath": "C:\\Users\\NamanJain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\APIs_Samples_Made_By_me\\FastAPI\\FastAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\NamanJain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "FastEndpoints": {
+            "target": "Package",
+            "version": "[5.8.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

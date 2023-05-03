@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastAPI", "FastAPI\FastAPI.csproj", "{9D08A10D-6ECF-4E49-9B52-2FB8D1869BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D08A10D-6ECF-4E49-9B52-2FB8D1869BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D08A10D-6ECF-4E49-9B52-2FB8D1869BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D08A10D-6ECF-4E49-9B52-2FB8D1869BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D08A10D-6ECF-4E49-9B52-2FB8D1869BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9329BB22-CD57-4AB0-A872-B627DA8D968E}
+	EndGlobalSection
+EndGlobal

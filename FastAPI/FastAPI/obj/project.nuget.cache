@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SY3XVk0ItsYo7WUbBUgrEflPmUfQwJgdCGi+xxA50RAyN/cZNKL/AgquZ4rgm9havMe/9LxXllbAxZvwkBZhwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NamanJain\\OneDrive - Celebal Technologies Private Limited\\APIs_Samples_Made_By_me\\FastAPI\\FastAPI\\FastAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NamanJain\\.nuget\\packages\\fastendpoints\\5.8.1\\fastendpoints.5.8.1.nupkg.sha512",
+    "C:\\Users\\NamanJain\\.nuget\\packages\\fastendpoints.attributes\\5.8.1\\fastendpoints.attributes.5.8.1.nupkg.sha512",
+    "C:\\Users\\NamanJain\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
