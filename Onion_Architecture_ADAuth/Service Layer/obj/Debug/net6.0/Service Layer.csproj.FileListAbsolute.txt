@@ -1,0 +1,38 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\refint\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\ref\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Service Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\refint\Service Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\Service Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Service Layer\obj\Debug\net6.0\ref\Service Layer.dll

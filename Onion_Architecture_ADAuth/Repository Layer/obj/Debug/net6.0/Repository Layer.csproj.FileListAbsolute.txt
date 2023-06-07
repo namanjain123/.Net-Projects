@@ -1,0 +1,34 @@
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\refint\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\ref\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\APIs_Samples_Made_By_me\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.deps.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.runtimeconfig.json
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Domain Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\bin\Debug\net6.0\Domain Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.AssemblyReference.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.AssemblyInfoInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.AssemblyInfo.cs
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.CoreCompileInputs.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.csproj.CopyComplete
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\refint\Repository Layer.dll
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.pdb
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\Repository Layer.genruntimeconfig.cache
+C:\Users\NamanJain\OneDrive - Celebal Technologies Private Limited\Other Work Main Layouts\.Net-Projects\OnionArchitecture\Repository Layer\obj\Debug\net6.0\ref\Repository Layer.dll
