@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using NamanApi.Data;
 using System;
 using System.Collections.Generic;
@@ -27,17 +28,20 @@ namespace NamanApi.Controllers
                     LastName="Jain",
                     Address="48,Jaipur"}
             };
+        private readonly ILogger<NamanControler> _logger;
         //Some Data
         private readonly DataContext _context;
-        public NamanControler(DataContext context) {
-
+        public NamanControler(DataContext context, ILogger<NamanControler> logger) {
+            _logger=logger;
             _context = context;
         }
         [HttpGet("{id}")]
         public async Task<ActionResult<List<Naman>>> Get(int id)
         {
             var namant = await _context.Namans.FindAsync(id);
+            _logger.LogInformation("Get Request");
             if (namant == null)
+                _logger.LogError("Get Request Failed NO data");
                 return BadRequest("Naman not Found.");
             return Ok(await _context.Namans.ToListAsync());
         }
@@ -56,6 +60,7 @@ namespace NamanApi.Controllers
             var naman = namans.Find(h => h.Id == request.Id);
             if (naman == null)
             {
+                _logger.LogError("Put Request Failed");
                 return BadRequest("The Name Not FOund");
 
             }
@@ -73,6 +78,7 @@ namespace NamanApi.Controllers
             var naman = namans.Find(h => h.Id == id);
             if (naman == null)
             {
+                _logger.LogError("Delete Failed");
                 return BadRequest("The Name Not FOund");
 
             }
