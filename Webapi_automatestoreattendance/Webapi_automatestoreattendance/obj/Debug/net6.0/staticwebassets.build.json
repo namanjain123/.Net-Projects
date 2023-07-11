@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AaH4sxSAOA9bDT/uZ0qYcnqBsoeSoKYwXVsoEQJCQd4=",
+  "Source": "Webapi_automatestoreattendance",
+  "BasePath": "_content/Webapi_automatestoreattendance",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

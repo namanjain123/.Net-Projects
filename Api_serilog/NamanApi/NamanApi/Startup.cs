@@ -12,6 +12,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using NamanApi.Data;
+using Serilog;
+using Serilog.Sinks.MSSqlServer;
 
 namespace NamanApi
 {
@@ -28,7 +30,26 @@ namespace NamanApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // var builder = WebApplication.CreateBuilder(args);
             var dbConnectionString = Configuration.GetConnectionString("DefaultConnection");
+            var logger = new LoggerConfiguration()
+        .ReadFrom.Configuration(Configuration)
+        .Enrich.FromLogContext()
+        .WriteTo.MSSqlServer(
+            connectionString: dbConnectionString,
+            sinkOptions: new MSSqlServerSinkOptions
+            {
+                TableName = "Logs", 
+                AutoCreateSqlTable = true 
+            })
+        .CreateLogger();
+            services.AddLogging(loggingBuilder =>
+            {
+                loggingBuilder.ClearProviders();
+                loggingBuilder.AddSerilog(logger);
+            });
+
+            
             services.AddDbContext<DataContext>
                 (option => option.UseSqlServer(dbConnectionString));
             services.AddControllers();
