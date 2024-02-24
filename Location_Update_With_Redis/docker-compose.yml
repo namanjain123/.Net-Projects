@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  sender:
+    build:
+      context: .
+      dockerfile: sender.Dockerfile
+    ports:
+      - "8080:80"  # Map the host port 8080 to the container port 80
+    depends_on: 
+      - redisPubSub
+
+  reciver:
+    build:
+      context: ./Reciver
+      dockerfile: Dockerfile
+    depends_on: 
+      - redisPubSub
+
+  redisPubSub:
+    image: "redis"
+    ports:
+      - "6379:6379"
